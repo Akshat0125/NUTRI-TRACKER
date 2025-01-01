@@ -1,7 +1,7 @@
-Nutrition Tracker
+# Nutrition Tracker
 A Nutrition Tracker application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app allows users to track and analyze the nutritional values of food items, providing detailed reports to help maintain a balanced diet.
 
-Features
+Features :
 Food Database: Search for food items and retrieve their nutritional information (calories, protein, fats, carbs, etc.).
 Custom Entries: Add custom food items with user-defined nutritional values.
 Nutritional Report: View detailed daily or weekly nutritional intake summaries.
